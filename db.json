@@ -1,7 +1,5 @@
 {
-	"direct": {
-		"register": {
-			"msg": "success"
-		}
+	"register": {
+		"msg": "success"
 	}
 }
