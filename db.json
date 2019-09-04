@@ -1,5 +1,8 @@
 {
     "register": {
         "msg": "success"
+    },
+     "direct/register": {
+        "msg": "success"
     }
 }
