@@ -1,12 +1,12 @@
 {
-	"register": {
- 		"subscriptionId": "ba1ebf3e-8833-41cd-92a8-70618253cac5",
- 		"status": "REGISTERED"
-	},
 	"direct": {
+		"register": {
+			"status": "REGISTERED",
+			"subscriptionId": "ba1ebf3e-8833-41cd-92a8-70618253cac5"
+		}
+	},
 	"register": {
- 		"subscriptionId": "ba1ebf3e-8833-41cd-92a8-70618253cac5",
- 		"status": "REGISTERED"
+		"status": "REGISTERED",
+		"subscriptionId": "ba1ebf3e-8833-41cd-92a8-70618253cac5"
 	}
-}
 }
