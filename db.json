@@ -1,5 +1,6 @@
 {
 	"register": {
-		"msg": "success"
+ 		"subscriptionId": "ba1ebf3e-8833-41cd-92a8-70618253cac5",
+ 		"status": "REGISTERED"
 	}
 }
